@@ -92,10 +92,18 @@
             android:layout_height="wrap_content"
             android:text="7732-1729"/>
     </LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Share"
+        android:onClick="Share"
+        android:layout_marginTop="16dp"
+
+        />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="16dp"
         android:text="Powered By: Rodrigo Rovelo"
         />
 </LinearLayout>
